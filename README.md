@@ -1,6 +1,6 @@
 # monitoring-system
 
-Start & Run project
+Build & Run
 
 (1) Execute and run monitoring-system.sql in mysql database </br>
 (2) Build project via maven, mvn clean install </br>
