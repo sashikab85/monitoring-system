@@ -9,7 +9,7 @@
 (5) Refer wiki, https://github.com/sashikab85/monitoring-system/wiki </br>
 
 
-** how to use endpoint
+** how to use endpoint(s)
 
 (1) Try out signup endpoint for create user(s) </br>
 (2) Use login end point generate jwt token , https://github.com/sashikab85/monitoring-system/blob/main/user-login-endpoint.PNG </br>
