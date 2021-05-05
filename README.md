@@ -14,5 +14,5 @@
 (1) Try out signup endpoint for create user(s) </br>
 (2) Use login end point generate jwt token , https://github.com/sashikab85/monitoring-system/blob/main/user-login-endpoint.PNG </br>
 (3) Use header values for each endpoint request, https://github.com/sashikab85/monitoring-system/blob/main/how%20to%20use%20endpoints.PNG </br>
-(4) Change role table manually in database, if need ROLE_ADMIN or ROLE_COACH ---- > [default role is ROLE_PALYER] </br>
+(4) Change role table manually in database, if need ROLE_ADMIN or ROLE_COACH ---- > [default role is ROLE_PLAYER] </br>
 
