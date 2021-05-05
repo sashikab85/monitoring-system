@@ -16,3 +16,8 @@
 (3) Use header values for each endpoint request, https://github.com/sashikab85/monitoring-system/wiki </br>
 (4) Change role table manually in database, if need ROLE_ADMIN or ROLE_COACH ---- > [default role is ROLE_PLAYER] </br>
 
+TODO(S) :
+
+(1) Add globale exception handling </br>
+(2) Add password encription </br>
+(3) Add unit testing </br>
